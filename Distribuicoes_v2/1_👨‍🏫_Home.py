@@ -77,7 +77,10 @@ st.divider()
 # st.image("foto_perfil.jpg", width=150)
 
 
-st.write("lalalala to passando raiva")
+st.header("Sobre mim")
+st.write("🙋‍♂️Sou um estudante de Engenharia de Software apaixonado pela tecnologia e todo o seu potencial, comprometido a transformar ideias em soluções inovadoras.")
+st.write("📚 Atualmente estou cursando o 3º Semestre do curso de Engenharia de Software pela Faculdade de Informática e Administração Paulista (FIAP).")
 
-st.write("Vai ter algo aqui")
+st.write("📚 A curiosidade e a vontade de aprender me guiam de forma que desenvolvi competências em áreas como Design Thinking, Tecnologia Sustentável e Gestão de Infraestrutura de TI")
 
+st.write("💬 Estou sempre animado com a perspectiva de novas oportunidades de aprendizado e com a energia necessária para ir atrás de novos conhecimentos e fazer a diferença.")

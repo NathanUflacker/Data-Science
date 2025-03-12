@@ -95,3 +95,4 @@ with col5:
     st.write("- Programação")
     st.write("- Gestão de Projetos")
     st.write("- Análise de dados")
+

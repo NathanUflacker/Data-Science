@@ -18,7 +18,7 @@ df = st.session_state["data"]
 tipos='Todos'
 tipos = np.append(tipos,df["Post type"].unique())
 tipo = st.sidebar.selectbox("Tipo de Post", tipos)
-st.sidebar.markdown("Desenvolvido por Prof. Tiago Marum [THM Estatística](https://thmestatistica.com)")
+st.sidebar.markdown("Desenvolvido por Nathan Uflacker.")
 
 if tipo == 'Todos':
     df_filtered = df
